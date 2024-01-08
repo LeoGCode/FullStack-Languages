@@ -1,0 +1,86 @@
+{
+  "Games": [
+    {
+      "name": "Hollow Knight",
+      "release_date": "2017-02-24",
+      "description": "Forge your own path in Hollow Knight! An epic action adventure through a vast ruined kingdom of insects and heroes. Explore twisting caverns, battle tainted creatures and befriend bizarre bugs, all in a classic, hand-drawn 2D style.",
+      "genres": [
+        "action",
+        "adventure",
+        "indie",
+        "metroidvania"
+      ],
+      "Expansions": [
+        "Hidden Dreams",
+        "Lifeblood",
+        "Godmaster"
+      ],
+      "Sequels": [
+        "Silksong"
+      ],
+      "Prequels": [
+        
+      ],
+      "stores": [
+        {
+          "name": "steam",
+          "price": "14.99"
+        }
+      ],
+      "platforms": [
+        "Windows",
+        "Switch"
+      ]
+    }
+  ],
+  "UpperGenres": [
+    {
+      "name":"Metroidvania",
+      "upperGenres": [
+        "Action",
+        "Adventure"
+      ]
+    }
+  ],
+  "Platforms": [
+    {
+      "name": "Microsoft Windows",
+      "abbreviation": "Windows"
+    },
+    {
+      "name": "Nintendo Switch",
+      "abbreviation": "Switch",
+      "type": [
+        {
+          "name": "Lite",
+          "price": "199.99"
+        },
+        {
+          "name": "Standard",
+          "price": "299.99"
+        }
+      ]
+
+    }
+  ],
+  "Stores": [
+    {
+      "name": "steam",
+      "url": "https://store.steampowered.com",
+      "platforms": [
+        "Windows"
+      ]
+      
+    }
+  ],
+  "Users": [
+    {
+      "name": "John Doe",
+      "email": "",
+      "password": "",
+      "games": [
+        "Hollow Knight"
+      ]
+    }
+  ]
+}
